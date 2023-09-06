@@ -1,7 +1,7 @@
 *{
     padding: 0 ; /*relleno*/
     margin: 0;
-    color: aliceblue;
+    color: black;
     text-align: center;
 
 }
@@ -12,3 +12,22 @@ html, body{
 
 }
 
+.mainContainer{
+    border: 4px solid rgb(255, 122, 0);
+    border-radius: 10px;
+    margin: 2rem;
+    background-color: rgb(22, 22, 68);
+
+}
+
+nav, section, footer, article, aside{
+    border: 2px solid rgb(75, 21, 150);
+    margin: 1rem;
+    border-radius: 10px;
+    padding: 10rem;
+}
+
+article, aside{
+    width: 40%;
+    display: inline-block;
+}

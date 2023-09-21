@@ -13,5 +13,6 @@
     border: 0;
     width: 196px;
     height: 210px;
+    position: inherit;
     
 }

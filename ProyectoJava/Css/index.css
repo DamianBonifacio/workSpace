@@ -1,0 +1,12 @@
+div{
+    background-color: rgb(58, 46, 168);
+}
+
+.card{
+    background-color: rgb(62, 68, 82);
+    border: 1px solid black;
+    width: 30%;
+}
+ul{
+    background-color: antiquewhite;
+}
